@@ -1,0 +1,20 @@
+{
+  "name": "shopify-also-bot",
+  "version": "1.0.0",
+  "description": "Shopify Also Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "graphql-js-client": "^0.9.2",
+    "nonce": "^1.0.4",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
